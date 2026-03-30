@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ID",
+  "base_artist": "luz×nqrse×ぷす",
+  "createdAt": "2026-03-30T13:15:17.437796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fake ID",
+      "artist": "Big & Rich feat. Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/01_Fake_ID_Big_&_Rich_feat._Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fake ID (feat. Gretchen Wilson)",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/02_Fake_ID_(feat._Gretchen_Wilson)_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(I'd Be) A Legend in My Time",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/03_(I'd_Be)_A_Legend_in_My_Time_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(I'd Choose) You Again",
+      "artist": "The Forester Sisters",
+      "has_synced": true,
+      "path": "select/04_(I'd_Choose)_You_Again_The_Forester_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(I'd Choose) You Again (Album Version)",
+      "artist": "THE FORESTER SISTERS",
+      "has_synced": true,
+      "path": "select/05_(I'd_Choose)_You_Again_(Album_Version)_THE_FORESTER_SISTERS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'd Be Better Off (In a Pine Box)",
+      "artist": "Doug Stone",
+      "has_synced": true,
+      "path": "select/06_I'd_Be_Better_Off_(In_a_Pine_Box)_Doug_Stone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'd Be Better Off (In A Pine Box) (Album Version)",
+      "artist": "Doug Stone",
+      "has_synced": false,
+      "path": "select/07_I'd_Be_Better_Off_(In_A_Pine_Box)_(Album_Version)_Doug_Stone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'd Be Better Off (In A Pine Box) (Album Version)",
+      "artist": "Doug Stone",
+      "has_synced": true,
+      "path": "select/08_I'd_Be_Better_Off_(In_A_Pine_Box)_(Album_Version)_Doug_Stone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'd Be Jealous Too",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/09_I'd_Be_Jealous_Too_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'd Be You",
+      "artist": "Lily Rose",
+      "has_synced": true,
+      "path": "select/10_I'd_Be_You_Lily_Rose.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'd Just Love To Lay You Down",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/11_I'd_Just_Love_To_Lay_You_Down_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'd Like To Have A Problem Like That",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/12_I'd_Like_To_Have_A_Problem_Like_That_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'd Like to See You Try",
+      "artist": "Chad Brock",
+      "has_synced": false,
+      "path": "select/13_I'd_Like_to_See_You_Try_Chad_Brock.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'd Like to See You Try (LP Version)",
+      "artist": "Chad Brock",
+      "has_synced": false,
+      "path": "select/14_I'd_Like_to_See_You_Try_(LP_Version)_Chad_Brock.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'd Love To Lay You Down",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/15_I'd_Love_To_Lay_You_Down_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'd Love You All Over Again",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/16_I'd_Love_You_All_Over_Again_Alan_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ID",
+      "artist": "luz×nqrse×ぷす",
+      "has_synced": false,
+      "path": "select/pl_01_ID_luz×nqrse×ぷす.txt"
+    }
+  ]
+}
